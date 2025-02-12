@@ -1,1 +1,5 @@
-adding the 1st line added the line
+<<<<<<< HEAD
+adding the 1st line added the line to check the conflict concept
+=======
+adding the 1st line adding the file
+>>>>>>> 036072f9dd1a8c571b0512a439daa6189231b160
